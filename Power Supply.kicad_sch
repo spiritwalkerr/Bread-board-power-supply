@@ -2712,6 +2712,16 @@
 		)
 		(uuid "ebd71922-faab-4171-bb59-eede2d54550b")
 	)
+	(text "this is to text new branch\n"
+		(exclude_from_sim no)
+		(at 164.084 29.21 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f0d2f25d-032d-4ff2-9649-10d94219adaa")
+	)
 	(text "Input and 5V circuit\n"
 		(exclude_from_sim no)
 		(at 48.514 36.322 0)

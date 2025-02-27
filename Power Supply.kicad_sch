@@ -2694,7 +2694,7 @@
 	)
 	(text "this is to test github\n"
 		(exclude_from_sim no)
-		(at 165.862 24.13 0)
+		(at 176.276 30.226 0)
 		(effects
 			(font
 				(size 2.5 2.5)

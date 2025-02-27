@@ -2682,7 +2682,7 @@
 		)
 		(uuid e2694b84-5eb2-4db2-9bb5-2dbe9bee3b2c)
 	)
-	(text "Just adding a text to test git"
+	(text "Just adding a text to test github for learing github"
 		(exclude_from_sim no)
 		(at 115.57 25.654 0)
 		(effects

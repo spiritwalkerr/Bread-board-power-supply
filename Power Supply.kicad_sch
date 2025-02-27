@@ -2692,6 +2692,16 @@
 		)
 		(uuid "47a3b597-fac3-4e35-8b00-4275710da864")
 	)
+	(text "this is to test github\n"
+		(exclude_from_sim no)
+		(at 165.862 24.13 0)
+		(effects
+			(font
+				(size 2.5 2.5)
+			)
+		)
+		(uuid "7177872c-114c-4847-ad93-368fa4fdd2d1")
+	)
 	(text "3V circuit"
 		(exclude_from_sim no)
 		(at 42.926 81.534 0)
